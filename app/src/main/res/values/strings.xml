@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Developers Life</string>
+    <string name="error_message">Произошла ошибка при загрузке данных. Проверьте подключение к сети.</string>
+</resources>
